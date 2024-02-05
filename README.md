@@ -45,3 +45,4 @@ The goal of this mini project is to explore the Decision Trees machine learning 
 - This project serves as an educational exercise in applying Decision Trees to healthcare data.
 - Additional improvements and optimizations can be explored for enhancing the model's performance.
 - Ensure you have the necessary permissions to access the provided dataset.
+- Credit: © IBM Corporation 2020. All rights reserved.
